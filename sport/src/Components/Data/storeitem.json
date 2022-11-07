@@ -1,0 +1,66 @@
+{
+    "products": [
+        {
+            "name" : "Air Force",
+             "image": "ProductpagePics/af.jpg"
+           
+            
+            
+            
+        },
+        {
+            "name": "Navy",
+            "image": "ProductpagePics/navy1.jpg"
+           
+        },
+        {
+           "name": "Miami University ",
+            "image": "Productpagepics/miami.jpg"
+            
+        },
+        {
+            "name":" University of Massachusetts",
+            "image": "Productpagepics/umass.jpg"
+        },
+        {
+            
+            "image": "Productpagepics/jordan6.jpg"
+           
+        },
+        {
+            
+            "image": "Productpagepics/jordan12.jpg"
+        
+        },
+        {
+            
+            "image": "Productpagepics/jordan14.jpg"
+            
+        },
+        {
+           
+            "image": "Productpagepics/yezzy700.jpg"
+            
+        },
+        {
+           
+            "image": "Productpagepics/yezzyblack.jpg"
+           
+        },
+        {
+            
+            "image": "Productpagepics/yezzygray.jpg"
+         
+        },
+        {
+          
+            "image": "Productpagepics/yezzysalt.jpg"
+            
+        },
+        {
+            
+            "image": "Productpagepics/jordan25th.jpg"
+        }
+      
+    ]
+}
