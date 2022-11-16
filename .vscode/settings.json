@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/71b8a928-4704-4c60-941b-d4b734a7b574/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Jaylen-Raynor-App",
+    "appService.deploySubpath": "."
+}
